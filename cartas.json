@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "nombre": "Loreana",
+    "saludo": "Para cielo,",
+    "contenido": [
+      "..."
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Melisa",
+    "saludo": "Para cielo",
+    "contenido": [
+      "..."
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Ceju",
+    "saludo": "Estimada Cielo",
+    "contenido": [
+      ""
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Belinda",
+    "saludo": "...",
+    "contenido": [
+      ""
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Malena",
+    "saludo": "Querida Malena,",
+    "contenido": [
+      "!"
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Milene",
+    "saludo": "tkm",
+    "contenido": [
+      "Gracias por la paciencia y el hermoso cariño, desde q entre a sedipro fuiste muy amable y una linda persona, preguntaba hasta por lo más mínimo y tu siempre respondías con paciencia y cariño TKM"
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Diego",
+    "saludo": "Estimado CIELO",
+    "contenido": [
+      "ULLIEN"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Anderson",
+    "saludo": "Querida directora,",
+    "contenido": [
+      "Quiero tomarme un momento para agradecerte sinceramente por todo el esfuerzo que vienes realizando. Sé que no siempre es fácil, y aun así, has sabido mantenerte firme, tomando decisiones con asertividad y guiando al equipo con mucha paciencia.",
+      "Personalmente, valoro mucho tu forma de liderar. No solo por la capacidad que tienes para sostener al grupo en momentos complicados, sino también por la manera en la que te mantienes enfocada y comprometida, incluso cuando las cosas se ponen difíciles.",
+      "Eres una excelente líder, y eso se nota en cada acción, en cada decisión y en cada intento por sacar lo mejor de nosotros. Gracias por todo lo que haces, muchas veces incluso sin que se vea.",
+      "Solo quiero decirte que no te rindas. Tu trabajo sí marca la diferencia, y somos varios los que lo reconocemos y lo apreciamos de verdad.",
+      "Con mucho respeto y aprecio, Anderson"
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Lecca",
+    "saludo": "Estimada Cielo",
+    "contenido": [
+      ".."
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Adriana",
+    "saludo": "Querida Cielo",
+    "contenido": [
+      "Cielito, liderar un equipo es una gran responsabilidad🙌🏼✨, que las dificultades que hoy estés enfrentando al hacerlo solo sea parte del proceso pero que no defina tu final🫂, ánimos y a continuar, tienes un equipo que te quiere y desea lo mejor🫶🏼, disculpa si a veces te hacemos renegar 😅"
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Maria Fernanda",
+    "saludo": "Querida Cielo,",
+    "contenido": [
+      "..."
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "Salvatore",
+    "saludo": "Querida Cielo",
+    "contenido": [
+      "El área de mkt, pese a que esta pasando por un momento difícil, esta siendo administrada de la mejor manera posible, gracias por ponerle tanto empeño a tu labor como directora, no es nada facil liderar un grupo, pero lo haces siempre con una sonrisa y priorizando la comodidad de todos, agradezco tambien la buena, carismatica, y sincera persona que eres."
+    ]
+  }
+]
